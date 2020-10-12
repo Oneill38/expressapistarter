@@ -28,6 +28,11 @@ const customers = [
         id: 2,
         name: "Judy",
         address: "Some place, somewhere"
+    },
+    {
+        id: 3,
+        name: "Eilidh",
+        address: "Some place, somewhere"
     }
 ]
 
