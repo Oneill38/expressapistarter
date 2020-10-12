@@ -36,7 +36,7 @@ const customers = [
     },
     {
         id: 4,
-        name: "Isobel".
+        name: "Isobel",
         address: "Some place, somewhere"
     }
 ]
